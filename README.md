@@ -6,4 +6,4 @@
 
 
 
-<img src="https://github.com/Sandivsv/ToDo-Web-App/blob/main/sc.png" height="540px" width="960px" alt="Web preview" align="center">
+<img src="https://github.com/Sandivsv/ToDo-Web-App/blob/main/sc.png" height="500px" width="960px" alt="Web preview" align="center">
