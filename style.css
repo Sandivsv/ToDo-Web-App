@@ -49,4 +49,5 @@ li{
 
 .delete{
     color: #b21919;
+    cursor: pointer;
 }
